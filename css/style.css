@@ -1,0 +1,303 @@
+/* ////////fonts////// */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+
+
+
+
+
+/* ////////header/////// */
+.header{
+    padding: 69px 0 69px 162px;
+}
+
+
+.nav-container{
+    display: flex;
+    justify-content: space-between;
+    width: 564px;
+    height: 23px;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 23px;
+    letter-spacing: 0em;
+    color: #274C5B;
+    
+
+}
+.logo{
+    width: 36.58px;
+    height: 53.72px;
+    vertical-align: middle;
+}
+.logo-text{
+    margin-left: 8.21px;
+    font-family: Roboto;
+    font-size: 38px;
+    font-weight: 700;
+    line-height: 45px;
+    letter-spacing: 0em;
+    color: #274C5B;
+    vertical-align: middle;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.nav{
+    vertical-align: middle;
+    display: inline-block;
+    margin-left: 150px;
+}
+.li-item{
+
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.angle-down-icon{
+    width: 6px;
+    height: 3px;
+}
+
+
+/* /////////////main/////////////// */
+
+
+
+.banner1{
+    margin-top: 16.28px;
+    width: auto;
+    height: 450px;
+
+}
+
+.main-container{
+    width: 1400px;
+    height: 1901px;
+    margin: 182px auto 0 auto;
+}
+
+.image1{
+    width: auto;
+    height: 742px;
+}
+.organic-store-services-div{
+    width: 936px;
+    height: 267px;
+    margin: 78px auto 0 auto;
+    
+
+}
+.organic-store-services-h2{
+font-family: 'Roboto', sans-serif;
+font-size: 50px;
+font-weight: 800;
+line-height: 59px;
+letter-spacing: 0em;
+color: #274C5B;
+}
+
+.organic-store-services-p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    color: #525C60;
+    margin-top: 28px;
+
+}
+
+.why-organic-div{
+    width: 537px;
+    height: 252px;
+    padding: 63px 45px 63px 45px;
+    background-color: #F9F8F8;
+    
+}
+.why-organic-h4{
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 29px;
+    color: #274C5B;
+
+}
+.why-organic-p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    margin-top: 7px;
+
+}
+
+.image2{
+    width: 379px;
+    height: 252px;
+    border-radius: 20px;
+    
+
+}
+
+.why-speciality-div{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-content: space-between;
+    width: 936px;
+    height: 532px;
+    margin-top: 70px;
+
+
+
+
+}
+
+.speciality-produce-div{
+    width: 537px;
+    height: 252px;
+    padding: 63px 45px 63px 45px;
+    background-color: #F9F8F8;
+
+}
+.speciality-produce-h4{
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 29px;
+    color: #274C5B;
+
+
+
+}
+.speciality-produce-p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    margin-top: 7px;
+}
+/* /////////we farm your hand///// */
+.we-farm-h3{
+    margin-top: 70px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 800;
+    font-size: 35px;
+    line-height: 41.02px;
+    color: #274C5B;
+
+
+}
+.we-farm-p{
+    margin-top: 7px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400px;
+    font-size: 18px;
+    line-height: 29.77px;
+
+}
+
+/* /////banner 2////// */
+.div-for-banner2{
+    width: 1400px;
+    height: 323px;
+    margin: 97px auto 0 auto;
+}
+.banner2{
+    width: auto;
+    height: auto;
+    border-radius: 20px;
+}
+
+
+/* /////////footer////// */
+.footer{
+    height: 439px;
+    margin-top: 60px;
+}
+
+.footer-div{
+    display: flex;
+    justify-content: space-between;
+    width: 1404px;
+    height: 308px;
+    margin: 0 auto;
+
+}
+.contact-us-div{
+    width: 291px;
+    height: auto;
+
+}
+.organick-div-footer{
+    width: 543px;
+    height: auto;
+    text-align: center;
+
+}
+.organick-footer-h6{
+    display: inline-block;
+    vertical-align: middle;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 44.53px;
+    color: #274C5B;
+    margin-left: 7px;
+    margin-bottom: 15px;
+}
+.organick-footer-logo{
+    width: 36.58px;
+    height: 53.72px;
+    vertical-align: middle;
+
+}
+.footer-h6{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 44.53px;
+    color: #274C5B;
+    margin-left: 8.21px;
+    margin-bottom: 15px;
+
+    
+
+}
+.organick-footer-p{
+    margin-top: 23px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 29.77px;
+
+
+}
+
+.footer-bold{
+    margin-top: 10px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: 400;
+    color: #525C60;
+    font-weight: bold;
+}
+.footer-p{
+
+    color:#525C60;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    
+
+}
