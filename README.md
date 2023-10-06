@@ -9,3 +9,5 @@ In project we have one html and one readme files, also css and image folders are
     in images folder we have 1 logo and 5 images.
 
     readme file is used for project description.
+
+html document is checked in validator (no errors found).
